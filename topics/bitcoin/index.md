@@ -1,13 +1,13 @@
----
-aliases: bitcoin-wallet, bitcoins, bitcoin-payment
+Terima kasih
+alias: bitcoin-wallet, bitcoin, pembayaran bitcoin
 created_by: Satoshi Nakamoto
 display_name: Bitcoin
 github_url: https://github.com/bitcoin/bitcoin
 logo: bitcoin.png
-released: January 3, 2009
-short_description: Bitcoin is a cryptocurrency developed by Satoshi Nakamoto.
+dirilis: 3 Januari 2009
+short_description: Bitcoin adalah cryptocurrency yang dikembangkan ole Satoshi Nakamoto.
 topic: bitcoin
 url: https://bitcoin.org/en/
 wikipedia_url: https://en.wikipedia.org/wiki/Bitcoin
 ---
-Bitcoin is a cryptocurrency developed by Satoshi Nakamoto in 2009. Bitcoin is used as a digital payment system. Rather than use traditional currency (USD, YEN, EURO, etc.) individuals may trade in, or even mine Bitcoin. It is a peer-to-peer system, and transactions may take place between users directly.
+Bitcoin adalah cryptocurrency yang dikembangkan oleh Satoshi Nakamoto pada tahun 2009. Bitcoin digunakan sebagai sistem pembayaran digital. Daripada menggunakan mata uang tradisional (USD, YEN, EURO, dll.) Individu dapat berdagang, atau bahkan menambang Bitcoin. Ini adalah sistem peer-to-peer, dan transaksi dapat terjadi antara pengguna secara langsung.
